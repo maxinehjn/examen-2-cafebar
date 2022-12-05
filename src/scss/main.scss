@@ -118,6 +118,72 @@ video {
   line-height: 25px;
 }
 
+.map-title {
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+  color: #000000;
+  letter-spacing: 2.22px;
+  text-align: center;
+}
+
+.map-subtitle {
+  font-family: PinyonScript-Regular;
+  font-size: 40px;
+  color: #000000;
+  letter-spacing: 2.22px;
+  text-align: center;
+}
+
+.menu {
+  font-family: RocGrotesk-Light;
+  font-size: 40px;
+  color: #000000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  line-height: 55px;
+}
+
+.hourly {
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+  color: #ffffff;
+  letter-spacing: 2.22px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.hourly-title {
+  font-family: PinyonScript-Regular;
+  font-size: 40px;
+  color: #ffffff;
+  letter-spacing: 2.22px;
+  text-align: center;
+}
+
+.time {
+  font-family: RocGrotesk-ExtraLight;
+  font-size: 30px;
+  color: #ffffff;
+  letter-spacing: 1.67px;
+  text-align: center;
+}
+
+.footer-title {
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+  color: #ffffff;
+  letter-spacing: 2.22px;
+  text-align: center;
+}
+
+.footer-description {
+  font-family: RocGrotesk-Light;
+  font-size: 30px;
+  color: #ffffff;
+  letter-spacing: 1.67px;
+  text-align: center;
+}
+
 /* ====================================
 // base rules
 // ==================================== */

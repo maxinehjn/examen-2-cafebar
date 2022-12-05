@@ -5102,4 +5102,70 @@ img, video {
   line-height: 25px;
 }
 
+.map-title {
+  color: #000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+}
+
+.map-subtitle {
+  color: #000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: PinyonScript-Regular;
+  font-size: 40px;
+}
+
+.menu {
+  color: #000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 40px;
+  line-height: 55px;
+}
+
+.hourly {
+  color: #fff;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.hourly-title {
+  color: #fff;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: PinyonScript-Regular;
+  font-size: 40px;
+}
+
+.time {
+  color: #fff;
+  letter-spacing: 1.67px;
+  text-align: center;
+  font-family: RocGrotesk-ExtraLight;
+  font-size: 30px;
+}
+
+.footer-title {
+  color: #fff;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+}
+
+.footer-description {
+  color: #fff;
+  letter-spacing: 1.67px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 30px;
+}
+
 /*# sourceMappingURL=index.b10d73a7.css.map */
