@@ -5036,4 +5036,70 @@ img, video {
   padding-bottom: 12px;
 }
 
+.title {
+  color: #fff;
+  letter-spacing: 3.06px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 55px;
+  line-height: 71px;
+}
+
+.intro-title {
+  color: #000;
+  letter-spacing: 1.39px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+}
+
+.intro {
+  color: #000;
+  letter-spacing: .58px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.event-title {
+  color: #fff;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: CinzelDecorative-Regular;
+  font-size: 40px;
+}
+
+.description-title {
+  color: #fff;
+  letter-spacing: 1.67px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 30px;
+}
+
+.description-img {
+  color: #fff;
+  letter-spacing: 1.11px;
+  font-family: RocGrotesk-Light;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.description-title-2 {
+  color: #fff;
+  letter-spacing: 1.67px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 30px;
+}
+
+.description-img-2 {
+  color: #fff;
+  letter-spacing: 1.11px;
+  font-family: RocGrotesk-Light;
+  font-size: 20px;
+  line-height: 25px;
+}
+
 /*# sourceMappingURL=index.b10d73a7.css.map */
