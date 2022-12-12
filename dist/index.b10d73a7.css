@@ -5129,6 +5129,7 @@ img, video {
   color: #000;
   letter-spacing: 2.22px;
   text-align: center;
+  margin-bottom: 50px;
   font-family: PinyonScript-Regular;
   font-size: 40px;
 }
@@ -5142,10 +5143,15 @@ img, video {
   line-height: 55px;
 }
 
+.different-background-2 {
+  background-color: #212b13;
+}
+
 .hourly {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
+  margin: 50px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
   line-height: 40px;
@@ -5155,6 +5161,7 @@ img, video {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
+  margin-bottom: 20px;
   font-family: PinyonScript-Regular;
   font-size: 40px;
 }
@@ -5164,13 +5171,14 @@ img, video {
   letter-spacing: 1.67px;
   text-align: center;
   font-family: RocGrotesk-ExtraLight;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .footer-title {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
+  margin: 30px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
 }
@@ -5179,8 +5187,9 @@ img, video {
   color: #fff;
   letter-spacing: 1.67px;
   text-align: center;
+  margin-bottom: 50px;
   font-family: RocGrotesk-Light;
-  font-size: 30px;
+  font-size: 22px;
 }
 
 /*# sourceMappingURL=index.b10d73a7.css.map */
