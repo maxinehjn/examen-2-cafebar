@@ -5015,6 +5015,10 @@ body {
   line-height: 1.25;
 }
 
+.different-background {
+  background-color: #212b13;
+}
+
 a {
   color: inherit;
 }
@@ -5045,18 +5049,24 @@ img, video {
   line-height: 71px;
 }
 
+.img {
+  background: #1521143d url("montagne.36b611d0.jpg");
+}
+
 .intro-title {
   color: #000;
   letter-spacing: 1.39px;
   text-align: center;
+  margin: 40px 10px 30px;
   font-family: CinzelDecorative-Regular;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .intro {
   color: #000;
   letter-spacing: .58px;
   text-align: center;
+  margin: 30px;
   font-family: RocGrotesk-Light;
   font-size: 15px;
   line-height: 20px;
@@ -5066,6 +5076,7 @@ img, video {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
+  margin: 40px 30px 10px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
 }
@@ -5074,6 +5085,7 @@ img, video {
   color: #fff;
   letter-spacing: 1.67px;
   text-align: center;
+  margin: 30px;
   font-family: RocGrotesk-Light;
   font-size: 30px;
 }
@@ -5081,6 +5093,7 @@ img, video {
 .description-img {
   color: #fff;
   letter-spacing: 1.11px;
+  margin: 2px 20px 70px;
   font-family: RocGrotesk-Light;
   font-size: 20px;
   line-height: 25px;
@@ -5090,6 +5103,7 @@ img, video {
   color: #fff;
   letter-spacing: 1.67px;
   text-align: center;
+  margin: 30px;
   font-family: RocGrotesk-Light;
   font-size: 30px;
 }
@@ -5097,6 +5111,7 @@ img, video {
 .description-img-2 {
   color: #fff;
   letter-spacing: 1.11px;
+  margin: 2px 20px 70px;
   font-family: RocGrotesk-Light;
   font-size: 20px;
   line-height: 25px;
