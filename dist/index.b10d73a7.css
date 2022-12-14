@@ -5029,17 +5029,6 @@ img, video {
   vertical-align: middle;
 }
 
-.row + .row {
-  margin-top: 16px;
-}
-
-.row > .col, .row > [class^="col-"] {
-  background-color: #563d7c26;
-  border: 1px solid #563d7c33;
-  padding-top: 12px;
-  padding-bottom: 12px;
-}
-
 .background-img {
   background: url("montagnes.5d17a816.png") 50% 26% / cover;
 }
@@ -5121,6 +5110,7 @@ img, video {
   color: #000;
   letter-spacing: 2.22px;
   text-align: center;
+  margin-top: 30px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
 }
@@ -5131,16 +5121,23 @@ img, video {
   text-align: center;
   margin-bottom: 50px;
   font-family: PinyonScript-Regular;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .menu {
   color: #000;
   letter-spacing: 2.22px;
-  text-align: center;
+  text-align: right;
   font-family: RocGrotesk-Light;
   font-size: 40px;
   line-height: 55px;
+}
+
+.text-menu {
+  color: #000;
+  letter-spacing: 2.22px;
+  font-family: RocGrotesk-Light;
+  font-size: 20px;
 }
 
 .different-background-2 {
@@ -5161,9 +5158,9 @@ img, video {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   font-family: PinyonScript-Regular;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .time {
@@ -5172,7 +5169,7 @@ img, video {
   text-align: center;
   margin-bottom: 50px;
   font-family: RocGrotesk-ExtraLight;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .footer-title {
@@ -5190,7 +5187,11 @@ img, video {
   text-align: center;
   margin-bottom: 50px;
   font-family: RocGrotesk-Light;
-  font-size: 22px;
+  font-size: 18px;
+}
+
+.footer-bg {
+  background: url("footer.18972454.webp") center / cover;
 }
 
 /*# sourceMappingURL=index.b10d73a7.css.map */
