@@ -5144,12 +5144,20 @@ img, video {
 
 .text-menu {
   color: #000;
-  letter-spacing: 2.22px;
-  color: #000;
   letter-spacing: 1.67px;
-  margin: 20px;
+  text-align: left;
+  margin: 50px 20px 20px;
   font-family: RocGrotesk-Light;
   font-size: 30px;
+}
+
+.menu-title {
+  color: #000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  font-family: RocGrotesk-Light;
+  font-size: 40px;
+  line-height: 55px;
 }
 
 .different-background-2 {

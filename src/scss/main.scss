@@ -160,15 +160,22 @@ video {
 }
 
 .text-menu {
-  font-family: RocGrotesk-Light;
-  font-size: 20px;
-  color: #000000;
-  letter-spacing: 2.22px;
   margin: 20px;
   font-family: RocGrotesk-Light;
   font-size: 30px;
   color: #000000;
   letter-spacing: 1.67px;
+  text-align: left;
+  margin-top: 50px;
+}
+
+.menu-title {
+  font-family: RocGrotesk-Light;
+  font-size: 40px;
+  color: #000000;
+  letter-spacing: 2.22px;
+  text-align: center;
+  line-height: 55px;
 }
 
 .different-background-2 {
