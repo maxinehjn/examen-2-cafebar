@@ -5037,6 +5037,7 @@ img, video {
   color: #fff;
   letter-spacing: 3.06px;
   text-align: center;
+  margin: 50px;
   font-family: CinzelDecorative-Regular;
   font-size: 55px;
   line-height: 71px;
@@ -5055,7 +5056,7 @@ img, video {
   color: #000;
   letter-spacing: .58px;
   text-align: center;
-  margin: 30px;
+  margin: 30px 65px;
   font-family: RocGrotesk-Light;
   font-size: 15px;
   line-height: 20px;
@@ -5065,7 +5066,7 @@ img, video {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
-  margin: 40px 30px 10px;
+  margin: 40px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
 }
@@ -5106,6 +5107,14 @@ img, video {
   line-height: 25px;
 }
 
+.img-hunter {
+  margin-top: 93px;
+}
+
+.img-messenger {
+  margin-top: -228px;
+}
+
 .map-title {
   color: #000;
   letter-spacing: 2.22px;
@@ -5136,8 +5145,11 @@ img, video {
 .text-menu {
   color: #000;
   letter-spacing: 2.22px;
+  color: #000;
+  letter-spacing: 1.67px;
+  margin: 20px;
   font-family: RocGrotesk-Light;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .different-background-2 {

@@ -57,6 +57,7 @@ video {
   letter-spacing: 3.06px;
   text-align: center;
   line-height: 71px;
+  margin: 50px;
 }
 
 .intro-title {
@@ -75,7 +76,7 @@ video {
   letter-spacing: 0.58px;
   text-align: center;
   line-height: 20px;
-  margin: 30px;
+  margin: 30px 65px;
 }
 
 .event-title {
@@ -84,7 +85,7 @@ video {
   color: #ffffff;
   letter-spacing: 2.22px;
   text-align: center;
-  margin: 40px 30px 10px 30px;
+  margin: 40px;
 }
 
 .description-title {
@@ -123,6 +124,14 @@ video {
   margin: 2px 20px 70px 20px;
 }
 
+.img-hunter {
+  margin-top: 93px;
+}
+
+.img-messenger {
+  margin-top: -228px;
+}
+
 .map-title {
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
@@ -155,6 +164,11 @@ video {
   font-size: 20px;
   color: #000000;
   letter-spacing: 2.22px;
+  margin: 20px;
+  font-family: RocGrotesk-Light;
+  font-size: 30px;
+  color: #000000;
+  letter-spacing: 1.67px;
 }
 
 .different-background-2 {
