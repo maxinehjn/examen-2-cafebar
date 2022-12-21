@@ -5,6 +5,7 @@
     <title>eikon parcel starter</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="scss/main.scss" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
   </head>
   <body>
     <header class="background-img">
@@ -78,6 +79,7 @@
         <div class="col-12 col-md-6">
           <img
             class="img-title"
+            data-aos="fade-up"
             src="img/lejardinier.jpg"
             alt="Photo du plat"
           />
@@ -86,6 +88,7 @@
         <div class="col-12 col-md-6">
           <img
             class="img-title img-hunter"
+            data-aos="fade-up"
             src="img/lechasseur.png"
             alt="Photo du plat"
           />
@@ -94,6 +97,7 @@
         <div class="col-12 col-md-6">
           <img
             class="img-messenger"
+            data-aos="fade-up"
             src="img/lemessager.png"
             alt="Photo du plat"
           />
@@ -137,5 +141,9 @@
       </div>
     </div>
     <script src="js/main.js" type="module"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
   </body>
 </html>
