@@ -5151,11 +5151,15 @@ img, video {
   font-size: 30px;
 }
 
+.meal {
+  margin-top: 10px;
+}
+
 .menu-title {
   color: #000;
   letter-spacing: 2.22px;
   text-align: left;
-  margin-top: 435px;
+  margin-top: 315px;
   margin-bottom: 50px;
   margin-left: 50px;
   font-family: RocGrotesk-Light;
@@ -5171,7 +5175,7 @@ img, video {
   color: #fff;
   letter-spacing: 2.22px;
   text-align: center;
-  margin: 50px;
+  margin: 70px 50px 50px;
   font-family: CinzelDecorative-Regular;
   font-size: 40px;
   line-height: 40px;
@@ -5190,7 +5194,7 @@ img, video {
   color: #fff;
   letter-spacing: 1.67px;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
   font-family: RocGrotesk-ExtraLight;
   font-size: 18px;
 }
@@ -5215,6 +5219,11 @@ img, video {
 
 .footer-bg {
   background: url("footer.18972454.webp") center / cover;
+}
+
+.container-test-1 {
+  flex-direction: column;
+  display: flex;
 }
 
 /*# sourceMappingURL=index.b10d73a7.css.map */
