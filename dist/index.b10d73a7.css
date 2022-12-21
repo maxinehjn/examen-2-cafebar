@@ -5093,7 +5093,7 @@ img, video {
   color: #fff;
   letter-spacing: 1.67px;
   text-align: center;
-  margin: 30px;
+  margin: 78px 30px 30px;
   font-family: RocGrotesk-Light;
   font-size: 30px;
 }
@@ -5154,7 +5154,10 @@ img, video {
 .menu-title {
   color: #000;
   letter-spacing: 2.22px;
-  text-align: center;
+  text-align: left;
+  margin-top: 435px;
+  margin-bottom: 50px;
+  margin-left: 50px;
   font-family: RocGrotesk-Light;
   font-size: 40px;
   line-height: 55px;
